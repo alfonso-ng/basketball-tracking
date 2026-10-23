@@ -1,0 +1,9 @@
+- Typescript for application logic.
+- React for the interface.
+- Vite for frontend development.
+- Electron for the desktop application.
+- SQLite for structured local data.
+- A maintained SQLite driver compatible with your chosen Electron version.
+- CSS Modules or plain CSS for styling.
+- Vitest for unit testing.
+- Electron Forge for packaging.

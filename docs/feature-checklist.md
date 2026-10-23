@@ -1,0 +1,17 @@
+- [ ] Create, rename and delete games.
+- [ ] Configure home and away teams.
+- [ ] Create and manage players and rosters.
+- [ ] Configure regulation periods and overtime periods.
+- [ ] Import videos into the managed library.
+- [ ] Play, pause, seek, and adjust video position.
+- [ ] Record basketball events with timestamps.
+- [ ] Edit and delete incorrectly recorded events.
+- [ ] Calculate team and player statistics.
+- [ ] Display the running score and box scores.
+- [ ] Review events and jump back to their video moments.
+- [ ] Generate a game summary.
+- [ ] Export statistics to CSV.
+- [ ] Produce a printable or PDF report.
+- [ ] Back up and restore game data.
+- [ ] Recover from missing or moved video files.
+- [ ] Package and test the app on the intended operating systems.
